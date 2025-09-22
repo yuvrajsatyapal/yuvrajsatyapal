@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **React & JavaScript**
 
-- 📫 How to reach me **yuvrajsatyapal21@gmail.com**
+- 📫 How to reach me :- **yuvrajsatyapal21@gmail.com**
 
-- ⚡ Fun fact **404: Sleep not found, coding in progress 🛠️**
+- ⚡ Fun fact :- **404: Sleep not found, coding in progress 🛠️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
