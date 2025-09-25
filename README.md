@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajsatyapal&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajsatyapal" /> </p>
 
-- 🌱 I’m currently learning **Redis, Kafka**
+- 🌱 I’m currently learning **Redis, Kafka & GraphQL**
 
 - 💬 Ask me about **React & JavaScript**
 
