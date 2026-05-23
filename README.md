@@ -102,7 +102,7 @@
 # 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/yuvraj_satyapal?theme=dark&font=Karma" />
+  <img height="200" src="https://leetcard.jacoblin.cool/yuvraj_satyapal?theme=dark&font=Karma&ext=heatmap" />
 
   <img height="200" src="https://leetcode-badge-showcase.vercel.app/api?username=yuvraj_satyapal&theme=dark" />
 </p>
