@@ -8,15 +8,15 @@
 
 ## 💫 About Me
 
-🚀 Full-Stack Developer building scalable, high-performance web applications, backend systems, and AI-powered products.
+🚀 Software Engineer building scalable, high-performance applications and backend systems.
 
-⚡ I enjoy solving real-world problems through clean architecture, efficient APIs, caching strategies, intelligent workflows, and modern developer tools.
+⚡ I enjoy solving real-world problems through clean architecture, efficient APIs, caching, real-time systems, and reliable distributed workflows.
 
-🛠️ I build end to end applications using Next.js, TypeScript, Node.js, PostgreSQL, Prisma, Redis, and modern cloud technologies.
+🛠️ I build end-to-end applications using Next.js, TypeScript, Node.js, PostgreSQL, Prisma, Redis, BullMQ, Docker, Nginx, and AWS.
 
-🤖 I also work with LLMs, RAG, vector databases, LangChain, and LangGraph to build intelligent applications that combine strong software engineering with practical AI capabilities.
+🤖 I build AI-powered applications using Python, LLM APIs, embeddings, vector search, RAG, LangChain, and LangGraph, combining practical AI capabilities with strong software engineering.
 
-💡 Focused on performance, scalability, great user experiences, and turning ideas into reliable, production ready products.
+💡 Focused on turning ideas into reliable, production-ready products with great user experiences.
 
 ## 🌐 Socials
 
@@ -54,6 +54,8 @@
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white)
 ![ExcelJS](https://img.shields.io/badge/ExcelJS-217346?style=for-the-badge)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
@@ -196,9 +198,6 @@
     </td>
   </tr>
 </table>
-
-### 💡 Thought of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
